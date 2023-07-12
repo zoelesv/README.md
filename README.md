@@ -5,9 +5,12 @@ I'm Zoe, a student and creator living in Mountain View, California.
 ## About me
 
 🌱&emsp;I’m currently pursuing a Masters in Data Science at University of San Francisco.<br>
-📚&emsp;I love learning and applying what I’ve learned to solve problems. You can see some of my projects here and my [Youtube](https://www.youtube.com/channel/UCiT66aj2Zh_GOyhYuud0Iog)!<br>
+📚&emsp;I love learning and applying what I’ve learned to solve problems.<br>
+👀&emsp;You can see some of my projects here and my [Youtube](https://www.youtube.com/channel/UCiT66aj2Zh_GOyhYuud0Iog)!<br>
 ✨&emsp;Pronouns: she/her<br>
-🎈&emsp;In my free time: I enjoy reading books, taking leisurely walks in gardens to connect with nature, playing music, and occasionally playing games.<br>
+🧘&emsp;[Nature](https://www.instagram.com/ez_adventure/) is my therapy.<br>
+🎈&emsp;I enjoy reading books, taking leisurely walks in gardens, traveling & playing music🎧.<br>
+🧩&emsp;I occasionally play games. When I do, I usually play just for fun.<br>
 🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻
 
 ## Projects 💻
