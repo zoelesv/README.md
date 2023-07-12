@@ -14,13 +14,13 @@ I'm Zoe, a student and creator living in Mountain View, California.
 
 * [My website made during Covid quarantine-2020](https://zoelesv.github.io/sayhi/)
 * [Smathchat - open for collaboration](https://www.youtube.com/watch?v=Z5xwn1h-rE8)
-* [Grow - coming back soon]
+* Grow - *coming back soon*
 
 ## CS Courses
 
 These are the CS courses that I took. They are really helpful if you start from scratch! They are free if you don't need credits for school.
 * [CS106A - Code In Place](https://codeinplace.stanford.edu)
-* [CS50 Computer Science(https://cs50.harvard.edu/x)]
+* [CS50 Computer Science](https://cs50.harvard.edu/x)
 * [Web Programming with Python and JavaScript](https://cs50.harvard.edu/web)
 
 
