@@ -10,7 +10,6 @@ I'm Zoe, a student and creator living in Mountain View, California.
 ✨&emsp;Pronouns: she/her<br>
 🧘&emsp;[Nature](https://www.instagram.com/ez_adventure/) is my therapy.<br>
 🎈&emsp;I enjoy reading books, taking leisurely walks in gardens, traveling & playing music🎧.<br>
-🧩&emsp;I occasionally play games. When I do, I usually play just for fun.<br>
 🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻
 
 ## Projects 💻
@@ -18,6 +17,7 @@ I'm Zoe, a student and creator living in Mountain View, California.
 * [My website made during Covid quarantine-2020](https://zoelesv.github.io/sayhi/)
 * [Smathchat - open for collaboration](https://www.youtube.com/watch?v=Z5xwn1h-rE8)
 * Grow - *coming back soon*
+* [Airbnb NYC EDA group project](https://zoelesv.github.io/airbnbnyc/)
 
 ## CS Courses
 
