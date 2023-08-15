@@ -6,7 +6,7 @@ I'm Zoe, a student and creator living in Mountain View, California.
 
 🌱&emsp;I’m currently pursuing a Masters in Data Science at University of San Francisco.<br>
 📚&emsp;I love learning and applying what I’ve learned to solve problems.<br>
-👀&emsp;You can see some of my projects here and my [Youtube](https://www.youtube.com/channel/UCiT66aj2Zh_GOyhYuud0Iog)!<br>
+👀&emsp;You can see some of my projects on my [website](https://zoelesv.github.io)!<br>
 ✨&emsp;Pronouns: she/her<br>
 🧘&emsp;[Nature](https://www.instagram.com/ez_adventure/) is my therapy.<br>
 🎈&emsp;I enjoy reading books, taking leisurely walks in gardens, traveling & playing music🎧.<br>
@@ -15,9 +15,9 @@ I'm Zoe, a student and creator living in Mountain View, California.
 ## Projects 💻
 
 * [My website made during Covid quarantine-2020](https://zoelesv.github.io/sayhi/)
-* [Smathchat - open for collaboration](https://www.youtube.com/watch?v=Z5xwn1h-rE8)
+* [Smathchat - open for collaboration](https://github.com/zoelesv/Smathchat)
 * Grow - *coming back soon*
-* [Airbnb NYC EDA group project](https://zoelesv.github.io/airbnbnyc/)
+* [Airbnb NYC EDA project](https://zoelesv.github.io/airbnbnyc/)
 
 ## CS Courses
 
