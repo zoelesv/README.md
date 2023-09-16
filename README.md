@@ -18,7 +18,7 @@ I'm Zoe, a student and App creator living in Mountain View, California.
 * [Smathchat - open for collaboration](https://github.com/zoelesv/Smathchat)
 * Grow - *coming back soon*
 * [Airbnb NYC EDA project](https://zoelesv.github.io/airbnbnyc/)
-* [MoodCanvas](https://moodcanvas.vercel.app/)
+* [MoodCanvas](https://moodcanvas.me/)
 
 ## CS Courses
 
