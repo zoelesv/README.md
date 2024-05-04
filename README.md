@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Zoe, a student and App creator living in Mountain View, California.
+I'm Zoe, an App creator living in Mountain View, California.
 
 ## About me
 
@@ -19,13 +19,17 @@ I'm Zoe, a student and App creator living in Mountain View, California.
 * Grow - *coming back soon*
 * [Airbnb NYC EDA project](https://zoelesv.github.io/airbnbnyc/)
 * [MoodCanvas](https://moodcanvas.me/)
+* PRENUPTaiL - *coming back soon*
+* [Podsicle](https://podsicle.vercel.app/)
 
-## CS Courses
+## CS/DS Courses
 
-These are the CS courses that I took. They are really helpful if you start from scratch! They are free if you don't need credits for school.
+These are the CS/DS courses that I took. They are really helpful if you start from scratch! They are free if you don't need credits for school.
 * [CS106A - Code In Place](https://codeinplace.stanford.edu)
 * [CS50 Computer Science](https://cs50.harvard.edu/x)
 * [Web Programming with Python and JavaScript](https://cs50.harvard.edu/web)
+* [MSDS692 - Data Acquisition](https://github.com/parrt/msds692/tree/f9a24f3ff7794c5f47fd7e2ee878ecd67c13a455)
+* [MSDS631 - Deep Learning](https://github.com/USFCA-MSDS/MSDS-631)
 
 
 
