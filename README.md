@@ -1,14 +1,14 @@
 # Hi there 👋
 
-I'm Zoe, an App creator living in Mountain View, California.
+I'm Zoe, a ML/Data Scientist living in Mountain View, California.
 
 ## About me
 
-🌱&emsp;I’m currently pursuing a Masters in Data Science at University of San Francisco.<br>
+🌱&emsp;I recently graduated with a Masters in Data Science at University of San Francisco.<br>
 📚&emsp;I love learning and applying what I’ve learned to solve problems.<br>
 👀&emsp;You can see some of my projects on my [website](https://zoelesv.github.io)!<br>
 ✨&emsp;Pronouns: she/her<br>
-🧘&emsp;[Nature](https://www.instagram.com/ez_adventure/) is my therapy.<br>
+🧘&emsp;Nature is my therapy.<br>
 🎈&emsp;I enjoy reading books, taking leisurely walks in gardens, traveling & playing music🎧.<br>
 🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻
 
