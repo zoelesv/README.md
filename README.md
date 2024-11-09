@@ -14,13 +14,14 @@ I'm Zoe, a ML/Data Scientist living in Mountain View, California.
 
 ## Projects 💻
 
-* [My website made during Covid quarantine-2020](https://zoelesv.github.io/sayhi/)
+* [RAG Discord Chatbot - FastAPI](https://github.com/zoelesv/notorious-r-a-g)
 * [Smathchat - open for collaboration](https://github.com/zoelesv/Smathchat)
 * Grow - *coming back soon*
 * [Airbnb NYC EDA project](https://zoelesv.github.io/airbnbnyc/)
 * [MoodCanvas](https://moodcanvas.me/)
 * PRENUPTaiL - *coming back soon*
 * [Podsicle](https://podsicle.vercel.app/)
+* [My website made during Covid quarantine-2020](https://zoelesv.github.io/sayhi/)
 
 ## CS/DS Courses
 
